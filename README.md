@@ -37,5 +37,11 @@ http://zguide.zeromq.org/page:all
 
 
 ## Stream processing
+future subject
+
+
+## Worthy materials:
+[linkedin] [samza] [rdbms] </br> https://www.youtube.com/watch?v=fU9hR3kiOK0
+
 
 
