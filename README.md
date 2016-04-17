@@ -35,6 +35,11 @@ http://zguide.zeromq.org/page:all
 * other
 
 
+## Distributed Databases
+##### DynamoDB
+[amazon paper] http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+
 
 ## Stream processing
 future subject
